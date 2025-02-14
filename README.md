@@ -15,7 +15,7 @@ Simple but elegant CLI script that prompts the user for a url to a video on a so
 ~ $ pip install -r requirements.txt
 
 ### Then all you have to do:
-~ $ python3 main.py 
+~ $ python3 sm_dl.py 
 
 The user can then copy n' paste any video 'url' and 'name' you wish to save - press Enter - and you can see the download in the terminal as well as a finished message.
 
